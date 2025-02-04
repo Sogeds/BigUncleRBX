@@ -1,5 +1,3 @@
-- 👋 Hi, I’m BigUncleRBX
-- 🌱 I’m currently learning: CC+, Lua+, CC
-- 📫 How to reach me: Currently, you can't reach me. This is a kinda anonymous page. If do something bad here, i won't be banned in tsb or roblox.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im a developer of The Strongest Battlegrounds in Roblox
+- 👋 Hi, I’m blizz or blizzard
+- 🌱 I’m currently learning: lua
+- 📫 How to reach me: @bl1rd on discord
