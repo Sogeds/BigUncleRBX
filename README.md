@@ -1,3 +1,1 @@
-- 👋 Hi, I’m blizz or blizzard
-- 🌱 I’m currently learning: lua
-- 📫 How to reach me: @bl1rd on discord
+what is this for
